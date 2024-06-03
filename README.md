@@ -1,5 +1,4 @@
 @mokollmar
 
-Programming in Svelte ⚡️ and Dart 🎯
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokollmar&theme=dark)
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokollmar&theme=dark&hide_border=true&hide_title=true)
