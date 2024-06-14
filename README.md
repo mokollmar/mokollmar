@@ -2,7 +2,12 @@
 
 ## Top Languages
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokollmar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&hide_title=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokollmar&layout=donut&hide_title=true&theme=github_dark&border_color=009EFF" />
+</div>
+
+## My Stats
+<div align="left">
+ <img src="https://github-readme-stats.vercel.app/api?username=mokollmar&show_icons=true&theme=github_dark&hide_title=true&border_color=009EFF&hide=issues" />
 </div>
 
 ## Tech Stack
