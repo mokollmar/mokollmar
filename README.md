@@ -11,7 +11,9 @@
 </div>
 
 ## Tech Stack
-<p align="left"> <a href="https://github.com/mokollmar"><img src="https://skillicons.dev/icons?i=vscode,dart,python,flutter,svelte,firebase,mongodb,wordpress"> </a> </p>
+<p align="left"> 
+ <a href="https://mokollmar.com/stack"><img src="https://skillicons.dev/icons?i=vscode,dart,python,flutter,svelte,firebase,mongodb,wordpress"> </a> 
+</p>
 
 ## Currently Learning
-<p align="left"> <a href="https://github.com/mokollmar"><img src="https://skillicons.dev/icons?i=rust,tensorflow,pytorch"> </a> </p>
+<p align="left"> <a href="https:///mokollmar.com/stack"><img src="https://skillicons.dev/icons?i=rust,tensorflow,pytorch"> </a> </p>
