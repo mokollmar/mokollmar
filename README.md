@@ -1,3 +1,3 @@
-<a href="https://mokollmar.com" align=center>mokollmar.com</a>
-
-<iframe src="https://mokollmar.com" allowfullscreen></iframe>
+<div align="center">
+  <button href="https://mokollmar.com" align=center>mokollmar.com</a>
+</div>
